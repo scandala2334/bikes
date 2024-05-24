@@ -23,7 +23,7 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>brave-narwhal-mwzr0w-dev-ed.trailblaze.my.salesforce.com</siteAdmin>
+    <siteAdmin>keith.poulos@brave-narwhal-mwzr0w.com</siteAdmin>
     <siteGuestRecordDefaultOwner>keith.poulos@brave-narwhal-mwzr0w.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <subdomain>brave-narwhal-mwzr0w-dev-ed</subdomain>
