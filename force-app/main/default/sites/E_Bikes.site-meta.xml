@@ -23,9 +23,9 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>ymca-c-dev-ed.trailblaze.my.salesforce.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>keith@scgraphics.com.flowdata</siteGuestRecordDefaultOwner>
+    <siteAdmin>brave-narwhal-mwzr0w-dev-ed.trailblaze.my.salesforce.com</siteAdmin>
+    <siteGuestRecordDefaultOwner>keith.poulos@brave-narwhal-mwzr0w.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>ymca-c-dev-ed</subdomain>
+    <subdomain>brave-narwhal-mwzr0w-dev-ed</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
